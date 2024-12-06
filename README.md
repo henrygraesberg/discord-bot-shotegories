@@ -11,7 +11,9 @@ After having set up your environment variables, run the commands:
 ```bash
 npm i
 
-node run start
+npm run start
+#OR
+npm run dev #With hot reload for development purposes
 ```
 This will install the required dependencies, and run both the file to deploy the commands to tell discord what commands are avaliable from your bot, and the command to start the bot.
 

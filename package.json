@@ -4,6 +4,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
+    "dev": "node deploy-commands.js && node --watch .",
     "start": "node deploy-commands.js && node ."
   },
   "keywords": [],
