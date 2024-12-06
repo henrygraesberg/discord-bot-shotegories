@@ -15,7 +15,7 @@ module.exports = {
 
     await interaction.reply(`Your random category is: ${category}!`)
 
-    await sleep(1000)
+    await sleep(1500)
 
     await interaction.followUp(`And your random letter is: ${letter}`)
   }
