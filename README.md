@@ -18,7 +18,7 @@ This will install the required dependencies, and run both the file to deploy the
 As long as you keep the terminal session running the bot open, the shotegories commands will be avaliable in your discord server! 
 
 ## Adding the bot to your server
-### When hosting the bot yourself (reccomended)
+### When hosting the bot yourself (recommended)
 Follow the guide on [adding your bot to servers](https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links) to find out how to add it to your servers.
 
 ### By using my bot
