@@ -1,5 +1,5 @@
 # Shotegoriesbot
-A discord bot made with [Discord.js](https://discord.js.org/) using the [Shotegories API](https://git.graesbgerg.com/Shotegories)
+A discord bot made with [Discord.js](https://discord.js.org/) using the [Shotegories API](https://git.graesbgerg.com/deno-shotegories)
 
 It supplies two commands, ```/category``` which responds with a random category and ```/shotegory``` which does the same, but also supplies a letter 1.5 seconds later to narrow down your possible responses
 
